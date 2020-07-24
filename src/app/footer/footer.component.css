@@ -1,0 +1,13 @@
+footer{
+    background-color: cadetblue;
+    height: 15vh;
+    text-align: center;
+    border: 2px solid coral;
+    margin :0;
+}
+
+footer h2{
+    padding-top: 1em;
+}
+
+
